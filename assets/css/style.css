@@ -1,12 +1,19 @@
 body {
-    background-color: black;
+    background-image: url("/assets/images/image1.jpg");
+    /* background-repeat: repeat; */
+}
+
+header {
+    margin-bottom: 30px;
+    border: 10px solid black;
 }
 
 .container {
     width:960px;
-    background-color: white;
+    /* background-color: white; */
     margin: 0 auto;
     padding: 30px;
+    border: 10px solid grey;
 }
 
 h1 {
@@ -16,6 +23,8 @@ img {
 float: left;
 height: 100px;
 Width: 110px;
+margin-right: 20px;
+margin-bottom: 20px;
 }
 
 ul {
