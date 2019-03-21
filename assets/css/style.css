@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width:960px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+h1 {
+   color: #4aaaa5
+}
+img {
+float: left;
+height: 100px;
+Width: 110px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+li {
+    float: right;
+  }
+  
+  li a {
+    display: inline-block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
