@@ -185,3 +185,7 @@ li:first-child:after {
     border-width: 6px;
     margin: 0 auto;
 }
+
+#hopsa {
+    margin: 10px;
+}
