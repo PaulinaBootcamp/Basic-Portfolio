@@ -169,7 +169,7 @@ li:first-child:after {
 }
 
 .hopsa {
-    display: table;
+    /* display: table; */
     text-align: center;
     margin-left: auto;
     margin-right: auto;
